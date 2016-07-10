@@ -20,7 +20,7 @@ rl.question('What do you want to do?\n1. Read notes.\n2. Make a new note.\n', ch
 	if (choice === '2' || choice === 2) {
 		rl.question('What do you want to note?\n', answer => {
 			console.log('Noted. Your note is:\n ' + answer);
-			fs.appendFile('notes.txt', '\n' + answer + '\n');
+			fs.appendFile(path.join(__dirname, 'notes.txt'), '\n' + answer + '\n');
 			rl.close();
 		});
 	}
