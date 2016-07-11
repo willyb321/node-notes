@@ -24,7 +24,7 @@
     "node-app"
   ],
   "dependencies": {
-
+    "prompt": "^1.0.0"
   },
   "devDependencies": {
     "ava": "^0.15.1",

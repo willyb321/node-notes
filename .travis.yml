@@ -23,7 +23,7 @@ deploy:
   api_key:
     secure: fl3kpLDUXxhojhKRAMfQatCEOhN+sQtvx1i1vaEcT31Y7mY9Sj0FlFHkj0iTc1Ku8TaqLUEy+McNLQFbNgaHBqLEoKK6WuSBraODShDxaRKBrCEwBHZu9jsPakvpo2UeUpUBfC+7ZYoVzMGP/oRb1FuEAi2H5XaeCsILayfOC4t80uJIcLeI5mjV0d9ZsA2DUUg441KUfwpRDrihrWIR2/iqztuYUwa0bqTrE7fJJgvM24yv9U8FxmNo5Fnnos/ZEF+3DXdjQfz7GmMiWiupMR/fuv39+qAUwAROPdLj0nw9ig1G10nVh/JKpWcqeWqF9XdMQX72s6PmdjvrB0+znVYYm2Q05LZtpoBqWq1G1yG7ZRho7o+d3V8kOGoVyG4i8+ekpu+00YhR3anr7pr3d4RC8RhHVlgwBmetOvkWphN8F96ZYB4NYlBO5iKhOzqHx7wMCy4BXVE73kT3+OCuUYGPKS/ISGNTXo6eCJr67NmmeA5suSp4/YPkXQ1NXEVAewW9rCGrRDkESVOC76drXN6TL58lin5P+l4Uodl1dUJqfBLuAqgRA7m8RqY8epRp8LmYIxOcSaApugHpJHO1vnwfUuigDqYGtYmwvrUnmKH4rdQbONG96pAvfY38GXIvwwkIHzLK+LLCeCMhQ7tQqL76+PoixlAcB5/84CpzNDA=
   on:
-    repo: willyb321/npm_cards
+    repo: willyb321/node-notes
     branch: master
   branches:
 
