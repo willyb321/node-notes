@@ -21,17 +21,18 @@ deploy:
   provider: npm
   email: wbwilliam7@gmail.com
   api_key:
-    secure: fl3kpLDUXxhojhKRAMfQatCEOhN+sQtvx1i1vaEcT31Y7mY9Sj0FlFHkj0iTc1Ku8TaqLUEy+McNLQFbNgaHBqLEoKK6WuSBraODShDxaRKBrCEwBHZu9jsPakvpo2UeUpUBfC+7ZYoVzMGP/oRb1FuEAi2H5XaeCsILayfOC4t80uJIcLeI5mjV0d9ZsA2DUUg441KUfwpRDrihrWIR2/iqztuYUwa0bqTrE7fJJgvM24yv9U8FxmNo5Fnnos/ZEF+3DXdjQfz7GmMiWiupMR/fuv39+qAUwAROPdLj0nw9ig1G10nVh/JKpWcqeWqF9XdMQX72s6PmdjvrB0+znVYYm2Q05LZtpoBqWq1G1yG7ZRho7o+d3V8kOGoVyG4i8+ekpu+00YhR3anr7pr3d4RC8RhHVlgwBmetOvkWphN8F96ZYB4NYlBO5iKhOzqHx7wMCy4BXVE73kT3+OCuUYGPKS/ISGNTXo6eCJr67NmmeA5suSp4/YPkXQ1NXEVAewW9rCGrRDkESVOC76drXN6TL58lin5P+l4Uodl1dUJqfBLuAqgRA7m8RqY8epRp8LmYIxOcSaApugHpJHO1vnwfUuigDqYGtYmwvrUnmKH4rdQbONG96pAvfY38GXIvwwkIHzLK+LLCeCMhQ7tQqL76+PoixlAcB5/84CpzNDA=
+    secure: JI+c1dOYwkugEnxHeN+31VpuLZBuGUnwALitEsMV9lU5vb0TBHQkedvqZzo1svvUHCW/xJjL1M0ff0bjeGKe4zbnxh7R3kpXBAWAU5pRMPMGhH+6nrQY61pUtIWjramUlKGpotHlEX8LOrtx+ZjqCU8mtX52fPQJ7N8U+nIUD85cC/3YYB914Ng7KvrGx+/571dmlKUqSCPvW4JiAy4qs6vVCl4KFnKq5nhiPutUyMzsh9A5175NMJTxot7miEvQZi4CgGITDNdCVti5oP63egQD6LFw8AtNwDyIvCVKtmE9Z/6K/xp5z3ewWEKpWkufwhembGGFAOp579iKTIOsPSqDSGZ2VCbhRX2ZgB0yAw2RRVyV9ttwya7xPZ579mqCKxPIm1pUb1DcGkUcajobqQJAqwIGnUlF8M/RyyOODB9UOHDnQ6AX0pxddyMQfle9XnzRr7llWANt7xWDJg33Qu0MN0XLRA7Mkd1S+FIJRfLMVXowk6wkJeXQe6GyYGpuNtVqL124xsJJuuPfN/RwdQNGTYhEkpePW6HcVFsSo2hQPy78wwPx3Ra1siZHFgLDHHC32oT9flPt3m1OQVKlnn5+g7lPHc6fC1jjLRbaEYfydqDD/EW6dDq+N1JaFL+Zzn1Wh8qDHFkbWtmsP5laZS9VRBvhpVYRtg3owio0hzA=
   on:
     repo: willyb321/node-notes
     branch: master
-  branches:
-
+  branches: 
   except:
-  - /^*-v[0-9]/
+  - "/^*-v[0-9]/"
 after_deploy:
-- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git" HEAD:master > /dev/null 2>&1
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git"
+  HEAD:master > /dev/null 2>&1
 after_success:
 - export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
 - git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
-- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git" $GIT_TAG
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git"
+  $GIT_TAG
