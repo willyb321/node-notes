@@ -26,7 +26,7 @@ prompt.get(schema, function (err, result) {
 		if (err) {
 			console.log('ERROR!');
 		}
-		fs.readFile('~/notes'), 'utf8', (err, notes) => {
+		fs.readFile('~/notes', 'utf8', (err, notes) => {
 			if (err) {
 				console.log('ERROR! You probably dont have any notes.');
 			}
