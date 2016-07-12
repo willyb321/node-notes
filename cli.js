@@ -44,7 +44,7 @@ prompt.get(schema, function (err, result) {
 		});
 	}
 	if (result.firstChoice === '3' || result.firstChoice === 3) {
-		fs.unlink('~/notes') err => {
+		fs.unlink('~/notes', err => {
 			if (err) {
 				console.log('You didn\'t actually have any notes');
 			}
