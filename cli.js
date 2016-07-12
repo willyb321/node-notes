@@ -26,7 +26,7 @@ prompt.get(schema, function (err, result) {
 		if (err) {
 			console.log('ERROR!');
 		}
-		fs.readFile(path.join(__dirname, 'notes'), 'utf8', (err, notes) => {
+		fs.readFile('~/notes'), 'utf8', (err, notes) => {
 			if (err) {
 				console.log('ERROR! You probably dont have any notes.');
 			}
@@ -40,11 +40,11 @@ prompt.get(schema, function (err, result) {
 				console.log('ERROR! No clue how this failed but good job!');
 			}
 			console.log('Your note: ' + result.note);
-			fs.appendFile(path.join(__dirname, 'notes'), result.note + '\n');
+			fs.appendFile('~/notes', result.note + '\n');
 		});
 	}
 	if (result.firstChoice === '3' || result.firstChoice === 3) {
-		fs.unlink(path.join(__dirname, 'notes'), err => {
+		fs.unlink('~/notes') err => {
 			if (err) {
 				console.log('You didn\'t actually have any notes');
 			}
