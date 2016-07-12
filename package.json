@@ -21,7 +21,8 @@
     "cli-app",
     "cli",
     "notes",
-    "node-app"
+    "node-app",
+    "note"
   ],
   "dependencies": {
     "prompt": "^1.0.0"
