@@ -5,6 +5,8 @@ const fs = require('fs');
 
 const prompt = require('prompt');
 
+const os = require('os')
+
 const path = require('path')
 
 prompt.start();
@@ -24,7 +26,7 @@ prompt.get(schema, function (err, result) {
 		if (err) {
 			console.log('ERROR!');
 		}
-		fs.readFile(path.join(__dirname, 'notes.txt'), 'utf8', (err, notes) => {
+		fs.readFile(path.join(os.homedir(), 'notes.txt'), 'utf8', (err, notes) => {
 			if (err) throw err;
 			console.log(notes);
 		});
@@ -34,11 +36,11 @@ prompt.get(schema, function (err, result) {
 		prompt.get(['note'], function (err, result) {
 			if (err) throw err
 			console.log('Your note: ' + result.note);
-			fs.appendFile(path.join(__dirname, 'notes.txt'), result.note + '\n');
+			fs.appendFile(path.join(os.homedir(), 'notes.txt'), result.note + '\n');
 		});
 	}
 	if (result.firstChoice === '3' || result.firstChoice === 3) {
-		fs.unlink(path.join(__dirname, 'notes.txt'), err => {
+		fs.unlink(path.join(os.homedir(), 'notes.txt'), err => {
 			if (err) throw err
 			if (!err) {
 				console.log('Reset your notes.');
