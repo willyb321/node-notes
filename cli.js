@@ -5,6 +5,8 @@ const fs = require('fs');
 
 const prompt = require('prompt');
 
+const path = require('path')
+
 prompt.start();
 var schema = {
 	properties: {
@@ -17,35 +19,27 @@ var schema = {
 };
 console.log('What do you want to do?\n1. Read Notes.\n2. Take notes.\n3. Reset Notes');
 prompt.get(schema, function (err, result) {
-	if (err) {
-		console.log('ERROR! You probably ^C or something');
-	}
+	if (err) throw err;
 	if (result.firstChoice === '1' || result.firstChoice === 1) {
 		if (err) {
 			console.log('ERROR!');
 		}
-		fs.readFile('~/notes', 'utf8', (err, notes) => {
-			if (err) {
-				console.log('ERROR! You probably dont have any notes.');
-			}
+		fs.readFile(path.join(__dirname, 'notes.txt'), 'utf8', (err, notes) => {
+			if (err) throw err;
 			console.log(notes);
 		});
 	}
 	if (result.firstChoice === '2' || result.firstChoice === 2) {
 		console.log('What is your note?');
 		prompt.get(['note'], function (err, result) {
-			if (err) {
-				console.log('ERROR! No clue how this failed but good job!');
-			}
+			if (err) throw err
 			console.log('Your note: ' + result.note);
-			fs.appendFile('~/notes', result.note + '\n');
+			fs.appendFile(path.join(__dirname, 'notes.txt'), result.note + '\n');
 		});
 	}
 	if (result.firstChoice === '3' || result.firstChoice === 3) {
-		fs.unlink('~/notes', err => {
-			if (err) {
-				console.log('You didn\'t actually have any notes');
-			}
+		fs.unlink(path.join(__dirname, 'notes.txt'), err => {
+			if (err) throw err
 			if (!err) {
 				console.log('Reset your notes.');
 			}
