@@ -1,5 +1,8 @@
 # Change Log
 
+## [build-10-master-2016-07-18-02-06](https://github.com/willyb321/node-notes/tree/build-10-master-2016-07-18-02-06) (2016-07-18)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-9-master-2016-07-13-04-13...build-10-master-2016-07-18-02-06)
+
 ## [build-9-master-2016-07-13-04-13](https://github.com/willyb321/node-notes/tree/build-9-master-2016-07-13-04-13) (2016-07-12)
 [Full Changelog](https://github.com/willyb321/node-notes/compare/build-5-master-2016-07-12-02-49...build-9-master-2016-07-13-04-13)
 
