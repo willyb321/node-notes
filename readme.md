@@ -1,67 +1,28 @@
-# nodenotes [![Build Status](https://travis-ci.org/willyb321/nodenotes.svg?branch=master)](https://travis-ci.org/willyb321/nodenotes)
+# nodenotes [![Build Status](https://travis-ci.org/willyb321/node-notes.svg?branch=master)](https://travis-ci.org/willyb321/node-notes)
 
-> My impressive module
+> Notes from your CLI
 
 
 ## Install
 
 ```
-$ npm install --save nodenotes
+$ npm install -g node-notes
 ```
+## What does it do?  
+At the moment, it allows you to take notes from your command line. Not much more than that, hence the name node-*notes*
 
 
 ## Usage
 
-```js
-const nodenotes = require('nodenotes');
-
-nodenotes('unicorns');
-//=> 'unicorns & rainbows'
+```sh
+node-notes
 ```
 
+## Compatibility  
+Should run on most systems, Windows, macOS, unix, etc etc.
 
-## API
-
-### nodenotes(input, [options])
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`<br>
-Default: `false`
-
-Lorem ipsum.
-
-
-## CLI
-
-```
-$ npm install --global nodenotes
-```
-
-```
-$ nodenotes --help
-
-  Usage
-    nodenotes [input]
-
-  Options
-    --foo  Lorem ipsum. [Default: false]
-
-  Examples
-    $ nodenotes
-    unicorns & rainbows
-    $ nodenotes ponies
-    ponies & rainbows
-```
-
+## Changelog  
+See [CHANGELOG.md](https://github.com/willyb321/npm_cards/blob/master/CHANGELOG.md) for the changes happening.
 
 ## License
 
