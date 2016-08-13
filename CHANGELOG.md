@@ -1,8 +1,7 @@
 # Change Log
 
-## [Unreleased](https://github.com/willyb321/node-notes/tree/HEAD)
-
-[Full Changelog](https://github.com/willyb321/node-notes/compare/build-29-build-28-build-27-build-26-build-25-build-24-build-23-build-22-build-21-master-2016-08-07-02-03-2016-08-07-02-07-2016-08-07-02-11-2016-08-07-02-17-2016-08-07-02-21-2016-08-07-02-25-2016-08-07-02-29-2016-08-07-02-33-2016-08-07-02-37...HEAD)
+## [build-31-master-2016-08-07-09-59](https://github.com/willyb321/node-notes/tree/build-31-master-2016-08-07-09-59) (2016-08-06)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-29-build-28-build-27-build-26-build-25-build-24-build-23-build-22-build-21-master-2016-08-07-02-03-2016-08-07-02-07-2016-08-07-02-11-2016-08-07-02-17-2016-08-07-02-21-2016-08-07-02-25-2016-08-07-02-29-2016-08-07-02-33-2016-08-07-02-37...build-31-master-2016-08-07-09-59)
 
 **Merged pull requests:**
 
