@@ -1,5 +1,8 @@
 # Change Log
 
+## [build-52-master-2016-08-14-07-50](https://github.com/willyb321/node-notes/tree/build-52-master-2016-08-14-07-50) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-50-master-2016-08-14-07-40...build-52-master-2016-08-14-07-50)
+
 ## [build-50-master-2016-08-14-07-40](https://github.com/willyb321/node-notes/tree/build-50-master-2016-08-14-07-40) (2016-08-14)
 [Full Changelog](https://github.com/willyb321/node-notes/compare/build-45-master-2016-08-14-07-14...build-50-master-2016-08-14-07-40)
 
