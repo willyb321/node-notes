@@ -1,8 +1,10 @@
 # Change Log
 
-## [Unreleased](https://github.com/willyb321/node-notes/tree/HEAD)
+## [build-44-greenkeeper-nyc-8.1.0-2016-08-14-06-46](https://github.com/willyb321/node-notes/tree/build-44-greenkeeper-nyc-8.1.0-2016-08-14-06-46) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-43-master-2016-08-14-11-36...build-44-greenkeeper-nyc-8.1.0-2016-08-14-06-46)
 
-[Full Changelog](https://github.com/willyb321/node-notes/compare/build-41-build-40-build-39-build-38-build-37-build-36-build-35-build-34-build-33-master-2016-08-14-08-30-2016-08-14-08-36-2016-08-14-08-40-2016-08-14-08-47-2016-08-14-08-51-2016-08-14-08-55-2016-08-14-09-00-2016-08-14-09-04-2016-08-14-09-08...HEAD)
+## [build-43-master-2016-08-14-11-36](https://github.com/willyb321/node-notes/tree/build-43-master-2016-08-14-11-36) (2016-08-14)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-41-build-40-build-39-build-38-build-37-build-36-build-35-build-34-build-33-master-2016-08-14-08-30-2016-08-14-08-36-2016-08-14-08-40-2016-08-14-08-47-2016-08-14-08-51-2016-08-14-08-55-2016-08-14-09-00-2016-08-14-09-04-2016-08-14-09-08...build-43-master-2016-08-14-11-36)
 
 **Merged pull requests:**
 
