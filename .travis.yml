@@ -26,13 +26,12 @@ deploy:
     repo: willyb321/node-notes
     branch: master
   branches: 
+  
   except:
   - "/^*-v[0-9]/"
 after_deploy:
-- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git"
-  HEAD:master > /dev/null 2>&1
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git" HEAD:master > /dev/null 2>&1
 after_success:
 - export GIT_TAG=build-$TRAVIS_BUILD_NUMBER-$TRAVIS_BRANCH-$(date "+%Y-%m-%d-%I-%M")
 - git tag $GIT_TAG -a -m "Generated tag from TravisCI build $TRAVIS_BUILD_NUMBER"
-- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git"
-  $GIT_TAG
+- git push --quiet "https://$GH_TOKEN:x-oauth-basic@github.com/willyb321/node-notes.git" $GIT_TAG
