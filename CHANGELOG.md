@@ -1,5 +1,29 @@
 # Change Log
 
+## [build-60-build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01-2016-09-16-05-06](https://github.com/willyb321/node-notes/tree/build-60-build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01-2016-09-16-05-06) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01...build-60-build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01-2016-09-16-05-06)
+
+## [build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01](https://github.com/willyb321/node-notes/tree/build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57...build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01)
+
+## [build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57](https://github.com/willyb321/node-notes/tree/build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52...build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57)
+
+## [build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52](https://github.com/willyb321/node-notes/tree/build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47...build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52)
+
+## [build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47](https://github.com/willyb321/node-notes/tree/build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-55-master-2016-09-16-04-43...build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47)
+
+## [build-55-master-2016-09-16-04-43](https://github.com/willyb321/node-notes/tree/build-55-master-2016-09-16-04-43) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-54-greenkeeper-nyc-8.3.0-2016-09-16-04-22...build-55-master-2016-09-16-04-43)
+
+## [build-54-greenkeeper-nyc-8.3.0-2016-09-16-04-22](https://github.com/willyb321/node-notes/tree/build-54-greenkeeper-nyc-8.3.0-2016-09-16-04-22) (2016-09-15)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-53-master-2016-09-12-04-47...build-54-greenkeeper-nyc-8.3.0-2016-09-16-04-22)
+
+## [build-53-master-2016-09-12-04-47](https://github.com/willyb321/node-notes/tree/build-53-master-2016-09-12-04-47) (2016-09-12)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-52-master-2016-08-14-07-50...build-53-master-2016-09-12-04-47)
+
 ## [build-52-master-2016-08-14-07-50](https://github.com/willyb321/node-notes/tree/build-52-master-2016-08-14-07-50) (2016-08-14)
 [Full Changelog](https://github.com/willyb321/node-notes/compare/build-50-master-2016-08-14-07-40...build-52-master-2016-08-14-07-50)
 
