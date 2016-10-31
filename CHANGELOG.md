@@ -2,7 +2,20 @@
 
 ## [Unreleased](https://github.com/willyb321/node-notes/tree/HEAD)
 
-[Full Changelog](https://github.com/willyb321/node-notes/compare/build-63-build-62-build-61-build-60-build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01-2016-09-16-05-06-2016-09-16-05-11-2016-09-16-05-15-2016-09-16-05-19...HEAD)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-67-master-2016-10-31-12-41...HEAD)
+
+**Merged pull requests:**
+
+- Update dependencies to enable Greenkeeper 🌴 [\#5](https://github.com/willyb321/node-notes/pull/5) ([greenkeeper[bot]](https://github.com/integration/greenkeeper))
+
+## [build-67-master-2016-10-31-12-41](https://github.com/willyb321/node-notes/tree/build-67-master-2016-10-31-12-41) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-66-greenkeeper/update-all-2016-10-31-12-41...build-67-master-2016-10-31-12-41)
+
+## [build-66-greenkeeper/update-all-2016-10-31-12-41](https://github.com/willyb321/node-notes/tree/build-66-greenkeeper/update-all-2016-10-31-12-41) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-65-master-2016-09-16-12-58...build-66-greenkeeper/update-all-2016-10-31-12-41)
+
+## [build-65-master-2016-09-16-12-58](https://github.com/willyb321/node-notes/tree/build-65-master-2016-09-16-12-58) (2016-09-16)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-63-build-62-build-61-build-60-build-59-build-58-build-57-build-56-build-55-master-2016-09-16-04-43-2016-09-16-04-47-2016-09-16-04-52-2016-09-16-04-57-2016-09-16-05-01-2016-09-16-05-06-2016-09-16-05-11-2016-09-16-05-15-2016-09-16-05-19...build-65-master-2016-09-16-12-58)
 
 **Merged pull requests:**
 
