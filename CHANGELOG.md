@@ -1,5 +1,29 @@
 # Change Log
 
+## [build-76-build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06-2016-10-31-01-10](https://github.com/willyb321/node-notes/tree/build-76-build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06-2016-10-31-01-10) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06...build-76-build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06-2016-10-31-01-10)
+
+## [build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06](https://github.com/willyb321/node-notes/tree/build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02...build-75-build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02-2016-10-31-01-06)
+
+## [build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02](https://github.com/willyb321/node-notes/tree/build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59...build-74-build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59-2016-10-31-01-02)
+
+## [build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59](https://github.com/willyb321/node-notes/tree/build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55...build-73-build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55-2016-10-31-12-59)
+
+## [build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55](https://github.com/willyb321/node-notes/tree/build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51...build-72-build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51-2016-10-31-12-55)
+
+## [build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51](https://github.com/willyb321/node-notes/tree/build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47...build-71-build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47-2016-10-31-12-51)
+
+## [build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47](https://github.com/willyb321/node-notes/tree/build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-69-master-2016-10-31-12-43...build-70-build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42-2016-10-31-12-47)
+
+## [build-69-master-2016-10-31-12-43](https://github.com/willyb321/node-notes/tree/build-69-master-2016-10-31-12-43) (2016-10-31)
+[Full Changelog](https://github.com/willyb321/node-notes/compare/build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42...build-69-master-2016-10-31-12-43)
+
 ## [build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42](https://github.com/willyb321/node-notes/tree/build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42) (2016-10-31)
 [Full Changelog](https://github.com/willyb321/node-notes/compare/build-67-master-2016-10-31-12-41...build-68-build-67-master-2016-10-31-12-41-2016-10-31-12-42)
 
